@@ -27,7 +27,7 @@
 <v t="leo.20181101230417.1"><vh>導入影片</vh>
 <v t="leo.20181101230433.1"><vh>影片內容</vh></v>
 </v>
-<v t="leo.20181101230614.1"><vh>導入影片</vh>
+<v t="leo.20181101230614.1" a="E"><vh>導入影片</vh>
 <v t="leo.20181101230614.2"><vh>影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
@@ -359,7 +359,7 @@ make.start()
 </t>
 <t tx="leo.20181101230614.2">## week2
 
-### 建立個人網站
+### 管理cms圖片
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wCwWszNB2Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
